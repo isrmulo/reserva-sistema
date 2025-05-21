@@ -31,19 +31,33 @@ Sala-Reserva-Sistema/
       reservations_delete.php
       auth.php
     database.sql
+```
 🚀 Tecnologias Utilizadas
 Frontend: React, TypeScript
 
 Backend: PHP, MySQL
 
 Banco de Dados: Script SQL incluso (database.sql)
+🚀 Tecnologias Utilizadas
+Frontend: React (Next.js), TypeScript
 
-yaml
-Copiar
-Editar
+Backend: PHP
 
----
+Banco de Dados: MySQL
 
-✅ Essa versão mantém a estrutura organizada e **não quebra a formatação no GitHub**.
+Outros: TailwindCSS (se usado), Axios, Fetch API, etc.
 
-Se quiser, posso complementar com seções como `Instalação`, `Execução`, `Requisitos`, etc. 
+✅ Requisitos
+Backend (PHP + MySQL)
+PHP 7.4+
+
+Servidor Apache ou Nginx
+
+MySQL/MariaDB
+
+Extensão mysqli habilitada
+
+Frontend (React)
+Node.js 16+
+
+NPM ou Yarn
